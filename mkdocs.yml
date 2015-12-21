@@ -1,0 +1,4 @@
+site_name: drf-hypermedia
+site_description: An extension for Django REST Framework to build Hypermedia Driven Web API's
+repo_url: https://github.com/auvipy/drf-hypermedia
+site_dir: html
